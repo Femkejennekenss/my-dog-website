@@ -3,4 +3,4 @@
 
 ### Subtitel
 
-Dit is normale tekst
+Dit is normale tekst.
